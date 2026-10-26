@@ -1,0 +1,26 @@
+asset_id,hostname,asset_type,ip_address,environment,criticality,owner_team,pci_scope
+AST-001,windows-prod-01,Windows Server,10.27.50.121,Production,Critical,Windows Infrastructure,Yes
+AST-002,windows-prod-02,Windows Server,10.37.38.50,Production,High,Windows Infrastructure,Yes
+AST-003,windows-prod-03,Windows Server,10.26.31.163,Production,High,Windows Infrastructure,Yes
+AST-004,windows-prod-04,Windows Server,10.15.7.116,Production,Medium,Windows Infrastructure,No
+AST-005,windows-prod-05,Windows Server,10.12.35.209,Production,Medium,Windows Infrastructure,Yes
+AST-006,windows-prod-06,Windows Server,10.30.3.154,Production,High,Windows Infrastructure,No
+AST-007,linux-prod-01,Linux Server,10.40.29.169,Production,High,Linux Infrastructure,No
+AST-008,linux-prod-02,Linux Server,10.30.11.161,Production,High,Linux Infrastructure,No
+AST-009,linux-prod-03,Linux Server,10.26.5.17,Production,Critical,Linux Infrastructure,Yes
+AST-010,linux-prod-04,Linux Server,10.38.16.155,Production,Medium,Linux Infrastructure,Yes
+AST-011,linux-prod-05,Linux Server,10.24.21.114,Production,Medium,Linux Infrastructure,Yes
+AST-012,linux-prod-06,Linux Server,10.16.34.61,Production,Low,Linux Infrastructure,Yes
+AST-013,network-prod-01,Network Device,10.30.19.129,Production,High,Network Operations,No
+AST-014,network-prod-02,Network Device,10.10.43.23,Production,High,Network Operations,No
+AST-015,network-prod-03,Network Device,10.24.42.73,Production,Medium,Network Operations,No
+AST-016,cloud-clou-01,Cloud Resource,10.27.6.183,Cloud,Critical,Cloud Platform,Yes
+AST-017,cloud-clou-02,Cloud Resource,10.34.15.133,Cloud,High,Cloud Platform,Yes
+AST-018,cloud-clou-03,Cloud Resource,10.12.37.198,Cloud,Medium,Cloud Platform,Yes
+AST-019,cloud-clou-04,Cloud Resource,10.13.19.100,Cloud,Medium,Cloud Platform,Yes
+AST-020,workstation-corp-01,Workstation,10.12.2.218,Corporate,Medium,End-User Computing,No
+AST-021,workstation-corp-02,Workstation,10.31.1.56,Corporate,Medium,End-User Computing,No
+AST-022,workstation-corp-03,Workstation,10.16.4.122,Corporate,Low,End-User Computing,No
+AST-023,workstation-corp-04,Workstation,10.22.46.103,Corporate,Low,End-User Computing,No
+AST-024,database-prod-01,Database,10.28.41.52,Production,Critical,Database Administration,Yes
+AST-025,database-prod-02,Database,10.18.22.24,Production,Critical,Database Administration,No
